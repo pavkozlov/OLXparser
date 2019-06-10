@@ -1,6 +1,6 @@
 # OLXparser
 
-Парсер сайта https://www.olx.ua/l
+Парсер сайта https://www.olx.ua/
 
 # Инструкция
 
