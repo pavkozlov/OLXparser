@@ -1,0 +1,5 @@
+.idea/
+.~lock.result.csv#
+__pycache__/
+venv/
+result.csv
